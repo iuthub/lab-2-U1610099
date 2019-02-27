@@ -1,0 +1,40 @@
+body{
+	margin: 5px;
+	padding: 10px;
+	background-color: #808080;
+
+}
+h1{
+	color: orange;
+	font-size: 43px;
+}
+h2
+{
+	color: rgb(222, 186, 45);
+	font-size: 20px;
+}
+p{
+	font-family:Arial;
+	font-size: 25px;
+	color: lightgreen;
+}
+ul li
+{
+	font-size: 17px;
+	font-family: Arial;
+	color: rgb(247, 232, 176);
+}
+
+.container
+{
+	width: 1000px;
+	min-height: 200px;
+	margin: 10px 10px;
+}
+.box img
+{
+width: 160px;
+height: 160px;
+float: left;
+margin: 10px 10px;
+}
